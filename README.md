@@ -18,3 +18,7 @@
 * ### [2.2 Dashboard de Análise de Vendas com dash, plotly, flask - api_dashboard - Deploy com PythonAnyWhere e GitHub](https://drive.google.com/drive/folders/1o4HvI6X4vf58u5PBxI5ZEpN8Lg6fqScG?usp=sharing)
 
 * ### [Exercicio Prático com dash, plotly](https://drive.google.com/drive/folders/1JdDZZvWRwBnQcu6zbnqxTYDCVRr-s9nN?usp=sharing)
+
+* #### [Colab Exercicio Prático com dash, plotly](https://colab.research.google.com/drive/1HKNWUt36qpyXc-veb4955fmtzLuA6MVb?usp=sharing)
+
+
