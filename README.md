@@ -21,4 +21,4 @@
 
 * #### [Colab Exercicio Prático com dash, plotly](https://colab.research.google.com/drive/1HKNWUt36qpyXc-veb4955fmtzLuA6MVb?usp=sharing)
 
-
+* ### [2.3 Dashboard de Análise de Vendas com dash, plotly, flask - api_dashboard_render - Deploy com Render On Render e GitHub](https://drive.google.com/drive/folders/16whKiHVul37vd15Cth9_6jfuMGQft8og?usp=sharing)
