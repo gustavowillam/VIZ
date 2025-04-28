@@ -15,10 +15,12 @@
   
 * ### [2.1 Dashboard de Análise de Vendas com dash, plotly](https://drive.google.com/drive/folders/1mb-Saw2sph4su2lD2PSrmVSm5zxjcrMw?usp=sharing)
 
-* ### [2.2 Dashboard de Análise de Vendas com dash, plotly, flask - api_dashboard - Deploy com PythonAnyWhere e GitHub](https://drive.google.com/drive/folders/1o4HvI6X4vf58u5PBxI5ZEpN8Lg6fqScG?usp=sharing)
+* ### [2.2.1 Dashboard de Análise de Vendas com dash, plotly, flask - api_dashboard - Deploy com PythonAnyWhere e GitHub](https://drive.google.com/drive/folders/1o4HvI6X4vf58u5PBxI5ZEpN8Lg6fqScG?usp=sharing)
 
 * ### [Exercicio Prático com dash, plotly](https://drive.google.com/drive/folders/1JdDZZvWRwBnQcu6zbnqxTYDCVRr-s9nN?usp=sharing)
 
 * #### [Colab Exercicio Prático com dash, plotly](https://colab.research.google.com/drive/1HKNWUt36qpyXc-veb4955fmtzLuA6MVb?usp=sharing)
 
-* ### [2.3 Dashboard de Análise de Vendas com dash, plotly, flask - api_dashboard_render - Deploy com Render On Render e GitHub](https://drive.google.com/drive/folders/16whKiHVul37vd15Cth9_6jfuMGQft8og?usp=sharing)
+* ### [2.2.2 Dashboard de Análise de Vendas com dash, plotly, flask - api_dashboard_render - Deploy com Render On Render e GitHub](https://drive.google.com/drive/folders/16whKiHVul37vd15Cth9_6jfuMGQft8og?usp=sharing)
+
+* ### [2.3 Dashboard de Medalhas nas Olimpíadas com dash, plotly, ChatGPT](https://drive.google.com/drive/folders/1vq-GdluEoBmHqsJdPXZhytImD7Th78kE?usp=sharing)
