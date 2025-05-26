@@ -6,15 +6,17 @@
 
 * ### [Colab - Charts in Colaboratory](https://colab.research.google.com/notebooks/charts.ipynb)  
 
+* ### [Colab - Visualizacao de Dados com Seaborn-MatPlotLib-Plotly](https://drive.google.com/drive/folders/1vwHHAyw4x7AbDNdpri0q7dQbjSUCpkIJ?usp=sharing)
 
 ## - Aula 01 - Microsoft PowerBI
 
-* ### [1.0 Visualizacao de Dados com Seaborn-MatPlotLib-Plotly](https://drive.google.com/drive/folders/1vwHHAyw4x7AbDNdpri0q7dQbjSUCpkIJ?usp=sharing)
+* ### [1.0 - Minicurso de Power BI](https://pages.hashtagtreinamentos.com/minicurso-power-bi?blog=1n4033rer&video=3dep762tr)
 
-* ### [1.1 - Dashboard de Analise de Sentimentos - Tweets](https://drive.google.com/drive/folders/1mO5yjAaRIO6GouemB0ZfLfI5yNzRWaKB?usp=sharing)
+* ### [1.1 - Dashboard de Análise de Sentimentos - Tweets](https://drive.google.com/drive/folders/1mO5yjAaRIO6GouemB0ZfLfI5yNzRWaKB?usp=sharing)
 
 * ### [1.2 - Dashboard de Análise de Vendas](https://drive.google.com/drive/folders/1qs2xBtfnSBPJqanJgShhPPSK2QdxLJ2o?usp=sharing)
 
+* ### [1.3 - Dashboard de Análise de Produção](https://drive.google.com/drive/folders/1r0Smosh9Sf1Y7TsW45Xo9Z2xmvz70AJO?usp=sharing)
 
 ## - Aula 02 - Dashboards em Python - Bibliotecas Dash, Plotly e Flask
 
