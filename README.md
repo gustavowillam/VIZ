@@ -22,6 +22,9 @@
 
 * ### [1.4 - Dashboard de Recursos Humanos - Retenção de Funcionários](https://drive.google.com/drive/folders/1nIER0fun0j7eyCMkanPV5YOjV6ab9ZOv?usp=sharing)
 
+* ### [1.11 - Dashboard de Análise de Vendas](https://drive.google.com/drive/folders/1Z1bhNqQOcdeRDOLQqSIttIh7uMGuy2rQ?usp=sharing)
+
+
 ## - Aula 02 - Dashboards em Python - Bibliotecas Dash, Plotly e Flask
 
 * ### [2.0 Exemplos com Plotly Express e Dash](https://drive.google.com/drive/folders/1wyhntHTz8egS7QqNXF7AjNKmtSI-pDGA?usp=sharing)
