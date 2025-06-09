@@ -1,4 +1,4 @@
-# Visualizaçãoo de Dados - Materiais das Aulas
+# Visualização de Dados - Materiais das Aulas
 
 ## [Aula 01 - Visualização de Dados](https://github.com/gustavowillam/DML/blob/main/slides/01-Visualizacao%20de%20Dados.pdf)
 
@@ -21,6 +21,8 @@
 * ### [1.3 - Dashboard de Análise de Produção](https://drive.google.com/drive/folders/1r0Smosh9Sf1Y7TsW45Xo9Z2xmvz70AJO?usp=sharing)
 
 * ### [1.4 - Dashboard de Recursos Humanos - Retenção de Funcionários](https://drive.google.com/drive/folders/1nIER0fun0j7eyCMkanPV5YOjV6ab9ZOv?usp=sharing)
+
+* ### [1.6 - Dashboard de Atendimento de Clientes - Call Center](https://drive.google.com/drive/folders/1mbmk4NugwI9e2ywtbWV4YGlJ6OkOlKg7?usp=sharing)
 
 * ### [1.11 - Dashboard de Análise de Vendas](https://drive.google.com/drive/folders/1Z1bhNqQOcdeRDOLQqSIttIh7uMGuy2rQ?usp=sharing)
 
