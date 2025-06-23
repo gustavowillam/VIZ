@@ -42,3 +42,9 @@
 * ### [2.2.2 Dashboard de Análise de Vendas com dash, plotly, flask - api_dashboard_render - Deploy com Render On Render e GitHub](https://drive.google.com/drive/folders/16whKiHVul37vd15Cth9_6jfuMGQft8og?usp=sharing)
 
 * ### [2.3 Dashboard de Medalhas nas Olimpíadas com dash, plotly, ChatGPT](https://drive.google.com/drive/folders/1vq-GdluEoBmHqsJdPXZhytImD7Th78kE?usp=sharing)
+
+## - Aula 03 - Deploy de Aplicações Python
+
+* ### [3.2 - Desenvolvimento de uma Modelo de ML para predição de Aluguel de Imóveis utilizando SQLite, Apache Airflow - Deploy com Streamlit e GitHub](https://drive.google.com/drive/folders/1PMS7rptHlGttxx975U0N66J8PpzWfXYq?usp=sharing)
+
+
